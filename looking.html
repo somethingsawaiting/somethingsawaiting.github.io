@@ -14,11 +14,23 @@
 		    h1{
 		        font-size:200px;
 		        color:white;
-			    animation:noise-anim 3s infinite;
+			 animation: glitch 1s linear infinite;
 		    }
 		    html {
 		        background:black;
 		    }
+			@keyframes glitch{
+  2%,64%{
+    transform: translate(2px,0) skew(0deg);
+  }
+  4%,60%{
+    transform: translate(-2px,0) skew(0deg);
+  }
+  62%{
+    transform: translate(0,0) skew(5deg); 
+  }
+}
+
 		</style>
 	</BODY>
 </HTML>
