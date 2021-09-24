@@ -1,7 +1,2 @@
-# SOMETHINGS AWAITING
-# MY GITHUB.IO
-# ENJOY
-Something's awaiting....
-# ENJOY IT
-# WHY.html
-Just Why?
+# Somethingsawaiting.github.io
+[Visit](https://somethingsawaiting.github.io)
